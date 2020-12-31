@@ -43,6 +43,7 @@ https://drive.google.com/file/d/1eEOu818QYuZHhjR5HnHhthwf93weHf9e/view?usp=shari
 评测原文：
 
 兄弟问我为什么玩GALGAME，我给兄弟买了一份
+
 兄弟回来跟我说：我永远喜欢幼刀（口吐白沫）
 
 ~~以上纯属瞎掰~~，不过喜欢幼刀的心是一直在的
@@ -58,9 +59,13 @@ https://drive.google.com/file/d/1eEOu818QYuZHhjR5HnHhthwf93weHf9e/view?usp=shari
 所以我就只能长按空格，一直快进（还不能跳过o(╥﹏╥)o）到我玩到的地方，有点麻烦
 
 刚发现，这游戏跟NEKOPARA一样有双语字幕，之前度盘下的好像没有~~（也许是有但是我没发现）~~
+
 妈：你怎么还在玩游戏？
+
 我：什么叫做我在玩游戏，明明是在学日语好嘛╮(╯▽╰)╭
+
 妈：真是个爱学习的好孩子o(￣▽￣)ｄ
+
 妈妈再也不用担心我不会日语了(*^▽^*)
 
 不过我对本作的评价还是挺高的，如果10★满分的话我给15★（过度好评O(∩_∩)O）
@@ -68,6 +73,7 @@ https://drive.google.com/file/d/1eEOu818QYuZHhjR5HnHhthwf93weHf9e/view?usp=shari
 如果你都看到这个地方了，不如给我点个赞？
 
 留一条绅士都喜欢的链接 [官方链接]（斜眼笑^_^）
+
 https://nekonyansoft.com/shop/product/28
 
 解压后打开EXE安装就好了，Demo版不适用
@@ -75,8 +81,11 @@ https://nekonyansoft.com/shop/product/28
 绅士链接（网盘分流，然鹅还是推荐用官方链接，除非你真的下不了）：
 
 百度网盘（不建议，下载太慢，会员当我没说）：
+
 /s/11neZZHVxpGFzw_hhYXQ3iQ 提取码: 0131
+
 因为百度网盘封了我之前的链接且不让我分享那个文件
+
 我重新压缩了一份，压缩包密码是SenrenBanka
 
 百度网盘国际版（国内应该不支持，有梯子当我没说，没有限速）：
