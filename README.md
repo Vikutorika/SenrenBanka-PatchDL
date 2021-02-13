@@ -8,6 +8,8 @@
 
 以下是我手上所有的网盘分流链接
 
+其他游戏的补丁我这里或许会有，你可以到右边这个链接里面去找找[https://one.bili33.top/Ecchi/](https://one.bili33.top/Ecchi/)，如果没有可以给我[发邮件](mailto:admin@bili33.top)，我会尽量去找，找到了会发邮件告诉你的
+
 ---
 
 官方链接：https://nekonyansoft.com/shop/product/28
@@ -16,7 +18,7 @@
 
 百度网盘（不建议，下载太慢，会员当我没说）：
 
-https://pan.baidu.com/s/11neZZHVxpGFzw_hhYXQ3iQ 提取码: 0131
+ 提取码: 0131
 
 因为百度网盘封了我之前的链接且不让我分享那个文件
 
